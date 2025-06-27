@@ -8,9 +8,9 @@
 
 ## 📘 Overview
 
-This repository contains a collection of lab assignments and implementations for **COE428 – Data Structures and Algorithms**. The course emphasizes the design, implementation, and analysis of fundamental data structures and algorithms using a high-level object-oriented programming language (C++ or Java).
+This repository contains a curated set of lab assignments for COE428 – Data Structures and Algorithms, emphasizing the design, implementation, and analysis of fundamental data structures and algorithms using Java.
 
-Projects span multiple algorithmic techniques, data abstraction principles, and system-oriented implementations, integrating both theoretical concepts and applied problem-solving.
+Projects explore key computer science concepts such as recursion, sorting, state machines, heaps, and XML parsing. Each lab combines theoretical foundations with hands-on development, reinforcing principles of abstraction, efficiency, and modular design in object-oriented programming.
 
 > ⚠️ **Academic Integrity Notice:**  
 All content in this repository is intended for educational reference only. If you are currently enrolled in COE428, please ensure your work complies with [Policy 60 – Academic Integrity](https://www.torontomu.ca/senate/policies/pol60.pdf).
@@ -66,9 +66,4 @@ All content in this repository is intended for educational reference only. If yo
 - Integrated data parsing and abstraction into system-level design  
 - Strengthened debugging, code organization, and modular programming skills
 
----
 
-## Author
-**Hamza Malik**  
-Computer Hardware & Software Engineering Student – Toronto Metropolitan University  
-💼
