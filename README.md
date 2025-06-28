@@ -8,7 +8,7 @@
 
 ## 📘 Overview
 
-This repository contains a curated set of lab assignments for COE428 – Data Structures and Algorithms, emphasizing the design, implementation, and analysis of fundamental data structures and algorithms using Java.
+This repository contains a set of lab assignments for COE428 – Data Structures and Algorithms, emphasizing the design, implementation, and analysis of fundamental data structures and algorithms using Java.
 
 Projects explore key computer science concepts such as recursion, sorting, state machines, heaps, and XML parsing. Each lab combines theoretical foundations with hands-on development, reinforcing principles of abstraction, efficiency, and modular design in object-oriented programming.
 
