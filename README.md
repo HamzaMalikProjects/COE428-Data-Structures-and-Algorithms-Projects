@@ -66,4 +66,6 @@ All content in this repository is intended for educational reference only. If yo
 - Integrated data parsing and abstraction into system-level design  
 - Strengthened debugging, code organization, and modular programming skills
 
+---
 
+© 2023 Hamza Malik
